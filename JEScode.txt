@@ -1,0 +1,475 @@
+
+-- 
+Gemar Brazil Johnston
+JES 
+Project f0XH0nd 
+
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>Fixed Width 1 Red</title><style type="text/css">
+			html, #page { padding:0; margin:0;}
+			body { margin:0; padding:0; width:100%; color:#959595; font:normal 12px/2.0em Sans-Serif;} 
+			h1, h2, h3, h4, h5, h6 {color:darkred;}
+			#page { background:#fff;}
+			#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar { margin:0; padding:0;}
+						
+			/* Logo */
+			#logo { padding:0; width:auto; float:left;}
+			#logo h1 a, h1 a:hover { color:darkred; text-decoration:none;}
+			#logo h1 span { color:#f8dbdb;}
+
+			/* Header */
+			#header { background:#fff; }
+			#header-inner { margin:0 auto; padding:0; width:970px;}
+			
+			/* Feature */
+			.feature { background:red;padding:18px;}
+			.feature-inner { margin:auto;width:970px; }
+			.feature-inner h1 {color:#f8dbdb;font-size:32px;}
+			
+			/* Menu */
+			#top-nav { margin:0 auto; padding:0px 0 0; height:37px; float:right;}
+			#top-nav ul { list-style:none; padding:0; height:37px; float:left;}
+			#top-nav ul li { margin:0; padding:0 0 0 8px; float:left;}
+			#top-nav ul li a { display:block; margin:0; padding:8px 20px; color:red; text-decoration:none;}
+			#top-nav ul li.active a, #top-nav ul li a:hover { color:#f8dbdb;}
+			
+			/* Content */
+			#content-inner { margin:0 auto; padding:10px 0; width:970px;background:#fff;}
+			#content #contentbar { margin:0; padding:0; float:right; width:760px;}
+			#content #contentbar .article { margin:0 0 24px; padding:0 20px 0 15px; }
+			#content #sidebar { padding:0; float:left; width:200px;}
+			#content #sidebar .widget { margin:0 0 12px; padding:8px 8px 8px 13px;line-height:1.4em;}
+			#content #sidebar .widget h3 a { text-decoration:none;}
+			#content #sidebar .widget ul { margin:0; padding:0; list-style:none; color:#959595;}
+			#content #sidebar .widget ul li { margin:0;}
+			#content #sidebar .widget ul li { padding:4px 0; width:185px;}
+			#content #sidebar .widget ul li a { color:red; text-decoration:none; margin-left:-16px; padding:4px 8px 4px 16px;}
+			#content #sidebar .widget ul li a:hover { color:#f8dbdb; font-weight:bold; text-decoration:none;}
+			
+			/* Footerblurb */
+			#footerblurb { background:#f8dbdb;color:red;}
+			#footerblurb-inner { margin:0 auto; width:922px; padding:24px;}
+			#footerblurb .column { margin:0; text-align:justify; float:left;width:250px;padding:0 24px;}
+			
+			/* Footer */
+			#footer { background:#fff;}
+			#footer-inner { margin:auto; text-align:center; padding:12px; width:922px;}
+			#footer a {color:red;text-decoration:none;}
+			
+			/* Clear both sides to assist with div alignment  */
+			.clr { clear:both; padding:0; margin:0; width:100%; font-size:0px; line-height:0px;}
+		</style><script type="text/javascript">
+			
+			}
+		</script><style type="text/css"></style></head>
+
+    <!-- Created By Gemar Johnston -->
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>Fixed Width 1 Red</title>
+		<style type="text/css">
+			html, #page { padding:0; margin:0;}
+			body { margin:0; padding:0; width:100%; color:#959595; font:normal 12px/2.0em Sans-Serif;} 
+			h1, h2, h3, h4, h5, h6 {color:darkred;}
+			#page { background:#fff;}
+			#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar { margin:0; padding:0;}
+						
+			/* Logo */
+			#logo { padding:0; width:auto; float:left;}
+			#logo h1 a, h1 a:hover { color:darkred; text-decoration:none;}
+			#logo h1 span { color:#f8dbdb;}
+
+			/* Header */
+			#header { background:#fff; }
+			#header-inner { margin:0 auto; padding:0; width:970px;}
+			
+			/* Feature */
+			.feature { background:red;padding:18px;}
+			.feature-inner { margin:auto;width:970px; }
+			.feature-inner h1 {color:#f8dbdb;font-size:32px;}
+			
+			/* Menu */
+			#top-nav { margin:0 auto; padding:0px 0 0; height:37px; float:right;}
+			#top-nav ul { list-style:none; padding:0; height:37px; float:left;}
+			#top-nav ul li { margin:0; padding:0 0 0 8px; float:left;}
+			#top-nav ul li a { display:block; margin:0; padding:8px 20px; color:red; text-decoration:none;}
+			#top-nav ul li.active a, #top-nav ul li a:hover { color:#f8dbdb;}
+			
+			/* Content */
+			#content-inner { margin:0 auto; padding:10px 0; width:970px;background:#fff;}
+			#content #contentbar { margin:0; padding:0; float:right; width:760px;}
+			#content #contentbar .article { margin:0 0 24px; padding:0 20px 0 15px; }
+			#content #sidebar { padding:0; float:left; width:200px;}
+			#content #sidebar .widget { margin:0 0 12px; padding:8px 8px 8px 13px;line-height:1.4em;}
+			#content #sidebar .widget h3 a { text-decoration:none;}
+			#content #sidebar .widget ul { margin:0; padding:0; list-style:none; color:#959595;}
+			#content #sidebar .widget ul li { margin:0;}
+			#content #sidebar .widget ul li { padding:4px 0; width:185px;}
+			#content #sidebar .widget ul li a { color:red; text-decoration:none; margin-left:-16px; padding:4px 8px 4px 16px;}
+			#content #sidebar .widget ul li a:hover { color:#f8dbdb; font-weight:bold; text-decoration:none;}
+			
+			/* Footerblurb */
+			#footerblurb { background:#f8dbdb;color:red;}
+			#footerblurb-inner { margin:0 auto; width:922px; padding:24px;}
+			#footerblurb .column { margin:0; text-align:justify; float:left;width:250px;padding:0 24px;}
+			
+			/* Footer */
+			#footer { background:#fff;}
+			#footer-inner { margin:auto; text-align:center; padding:12px; width:922px;}
+			#footer a {color:red;text-decoration:none;}
+			
+			/* Clear both sides to assist with div alignment  */
+			.clr { clear:both; padding:0; margin:0; width:100%; font-size:0px; line-height:0px;}
+		</style>
+		<script type="text/javascript">
+		
+			
+			function generateText(sentenceCount){
+				for (var i=0; i<sentenceCount; i++)
+				document.write(bodyText[Math.floor(Math.random()*7)]+" ")
+			}
+		</script>
+	</head><style type="text/css"></style><body>
+	<div class="stdcssdemobox">	
+		<style type="text/css">
+	div.stdcssdemobox {
+		border: 2px solid #00f ;
+		border-radius: 20px ;
+		padding: 20px ;
+		background-color: #c4e8f3 ;
+		color: #000 ;
+		width: 80% ;
+		margin-left: auto ;
+		margin-right: auto ;
+	}
+</style>
+		
+		
+		
+	<div id="page">
+			<header id="header">
+				<div id="header-inner">	
+					<div id="logo">
+						<h1><a href="#"><span><img style="-webkit-user-select: none" src="http://network.mugenguild.com/guild/anims/svc_guile_anim.gif"></span></a></h1>
+					</div>
+					<div id="top-nav">
+						<ul>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">FAQ</a></li>
+						<li><a href="#">Help</a></li>
+						</ul>
+					</div>
+					<div class="clr"></div>
+				</div>
+			</header>
+			<div class="feature">
+				<div class="feature-inner">
+				<h1>JohnstonExecutiveSolutions</h1>
+
+
+<h2>After JES is done with your IT needs you will not say yes, you will say JES!</h2>
+				</div>
+			</div>
+<title>About</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Fredericka+the+Great|Allura|Amatic+SC|Arizonia|Averia+Sans+Libre|Cabin+Sketch|Francois+One|Jacques+Francois+Shadow|Josefin+Slab|Kaushan+Script|Love+Ya+Like+A+Sister|Merriweather|Offside|Open+Sans|Open+Sans+Condensed|Oswald|Over+the+Rainbow|Pacifico|Romanesco|Sacramento|Seaweed+Script|Special+Elite"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"><link rel="stylesheet" type="text/css" href="site.css?v="><script> if (typeof ($sf) === "undefined") { $sf = { baseUrl: "https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2", skin: "app", preload: 0, require: { jquery: "https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/libs/jquery/jq.js", paths: { "wsbcore": "common/wsb/core", "knockout": "libs/knockout/knockout" } } }; } </script><script id="duel" src="//img4.wsimg.com/starfield/duel/v2.5.7/duel.js?appid=O3BkA5J1#TzNCa0E1SjF2Mi41Ljdwcm9k"></script><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/libs/jquery/jq.js"></script><script> define('jquery', ['jq!starfield/jquery.mod'], function(m) { return m; }); define('appconfig', [], { documentDownloadBaseUrl: 'http://nebula.wsimg.com' }); </script><link href="C:\Users\anubis111000111\Desktop\TEST.css" rel="stylesheet" type="text/css"><meta http-equiv="Content-Location" content="about.html"><meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 7.0.5350"><meta property="og:type" content="website"><meta property="og:title" content="About"><meta property="og:site_name" content="JohnstonExsol"><meta property="og:url" content="http://johnstonexsol.com/about.html"><meta property="og:image" content="//nebula.wsimg.com/31e87ce3497c235067e24dbdf9189a9c?AccessKeyId=1FED1B5AB3E77847E6F9&amp;disposition=0&amp;alloworigin=1"><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/common/cookiemanager/cookiemanager.js"></script><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/designer/iebackground/iebackground.js"></script><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/common/util/util.window.js"></script><style type="text/css"> #wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930{top:69px;left:449px;position:absolute;z-index:11}#wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930 .wsb-image-inner{}#wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930 .wsb-image-inner div{width:98px;height:35px;position:relative;overflow:hidden}#wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930 img{position:absolute}#wsb-element-5cdf6706-5da5-4414-988c-d49c252c821e{top:653px;left:420px;position:absolute;z-index:54}#wsb-element-5cdf6706-5da5-4414-988c-d49c252c821e .wsb-htmlsnippet-element{width:218px;height:214px;overflow:hidden;margin:auto}#wsb-element-75d1fdaf-f902-4b25-975f-f01e3723a45f{top:399px;left:868px;position:absolute;z-index:53}#wsb-element-75d1fdaf-f902-4b25-975f-f01e3723a45f .wsb-htmlsnippet-element{width:284px;height:427px;overflow:hidden;margin:auto}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07{top:397px;left:192px;position:absolute;z-index:43}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07 .wsb-image-inner{}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07 .wsb-image-inner div{width:668px;height:445px;position:relative;overflow:hidden}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07 img{position:absolute}#wsb-element-43dbab8d-39d2-4d40-a90f-ab5e058bda9f{top:911px;left:272px;position:absolute;z-index:49}#wsb-element-43dbab8d-39d2-4d40-a90f-ab5e058bda9f{width:600px;height:40px}#wsb-element-ead2120b-2903-48e8-b510-0da9598c48ec{top:14px;left:515px;position:absolute;z-index:48}#wsb-element-ead2120b-2903-48e8-b510-0da9598c48ec{width:600px;height:40px}#wsb-element-6617f312-4259-4143-a95a-9e19c3653200{top:30px;left:8px;position:absolute;z-index:41}#wsb-element-6617f312-4259-4143-a95a-9e19c3653200 .wsb-htmlsnippet-element{width:1006px;height:595px;overflow:hidden;margin:auto} </style><div class="wsb-canvas body"></div><script type="text/javascript"> require(['jquery', 'common/cookiemanager/cookiemanager', 'designer/iebackground/iebackground'], function ($, cookieManager, bg) { if (cookieManager.getCookie("WSB.ForceDesktop")) { $('.view-as-mobile', '.wsb-canvas-page-container').show().find('a').bind('click', function () { cookieManager.eraseCookie("WSB.ForceDesktop"); window.location.reload(true); }); } bg.fixBackground(); }); </script>
+
+
+		
+			<div id="footerblurb">
+				<div id="footerblurb-inner">
+				
+					<div class="After">
+						<h2><span><meta name="viewport" content="width=device-width, minimum-scale=0.1"><style type="text/css"></style><title>49f8e694a95dd7ba6ea608839689207f (1440×1080)</title><img style="-webkit-user-select: none; cursor: zoom-in;" src="http://nebula.wsimg.com/49f8e694a95dd7ba6ea608839689207f?AccessKeyId=1FED1B5AB3E77847E6F9&amp;disposition=0&amp;alloworigin=1" height="460" width="926"></span></h2>
+						<p><script>generateText(2)</script></p>
+					</div>	
+					<div class="column">
+						<h2><span><div data-bind="overlay: { template: 'htmlsnippet-loading', isVisible: showLoadingOverlay }">
+            <iframe data-bind="
+                    attr: {
+                        id: 'htmlsnippetiframe-' + ID(),
+                        src: '/designer/htmlsnippetiframe/' + ID()
+                    },
+                    style: { width: Width, height: Height },
+                    event: { load: handleIframeLoad }" data-widget-content="true" scrolling="no" allowtransparency="true" style="border: medium none; margin: 0px; padding: 0px; overflow: hidden; width: 287px; height: 7px;" id="htmlsnippetiframe-5cdf6706-5da5-4414-988c-d49c252c821e" src="/designer/htmlsnippetiframe/5cdf6706-5da5-4414-988c-d49c252c821e" frameborder="0"></iframe>
+        </div></span></h2>
+						<p><script>generateText(2)</script></p>
+					</div>
+					<div class="column">
+						<h2><span></span>
+<p style="font-family:gabriola">
+
+JES was founded in 2014 to provide
+education, computer setup, and custom request for businesses and
+individuals. Currently located in Waco TX, we service personal and
+business setups in Waco, Austin, San Antonio, and Dallas. The great
+thing about JES is that we can not only be contacted by phone, but also
+via Skype, Google Hangouts, and FaceTime. Communication is key to us so
+if you need help from home we can log on and walk you through.
+
+JES is able to be your translator when it comes to communicating with
+your ISP(internet service provider). We also contact manufacturers
+regarding products that you may need help with and we offer on-call
+times when you need us the most for your personal and business computer
+needs.
+
+With the advent of VOIP (Voice over IP) and the work at home craze
+sweeping the world, you need someone who is up to date with the latest
+internet protocols and networking terminology. Hackers target networks
+that are rooted in poor setup and viruses are written every day to
+exploit these holes in security. At JES, we have two computers setup at
+all times and they have one job, to get infected. From the data
+collected from these computers, we can gain knowledge on how the
+viruses attack in order to better protect you.  How will you know how
+to combat your attacker when you don't know his/her moves?  JES has you
+covered from all angles.       </p></h2>
+						<p><script>generateText(2)</script></p>
+					</div>	
+					
+					<div class="clr"></div>
+				</div>
+			</div>
+			<footer id="footer">
+				<div id="footer-inner">
+					<p>© Copyright <a href="#">JohnstonExecutiveSolutions</a> | <a href="#">Terms of Use</a> | <a href="#">You may not use any digital media on this site. JES (JohnstonExecutiveSolutions) reserves the rights to Johnstonexsol.com</a></p>
+					<div class="clr"></div>
+				</div>
+			</footer>
+		</div><p></p></div></body></html>
+
+<html><!-- Created by Gemar Johnston --><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>JohnstonExecutiveSolutions.com</title><style type="text/css">
+			html, #page { padding:0; margin:0;}
+			body { margin:0; padding:0; width:100%; color:#959595; font:normal 12px/2.0em Sans-Serif;} 
+			h1, h2, h3, h4, h5, h6 {color:darkred;}
+			#page { background:#fff;}
+			#header, #footer, #top-nav, #content, #content #contentbar, #content #sidebar { margin:0; padding:0;}
+						
+			/* Logo */
+			#logo { padding:0; width:auto; float:left;}
+			#logo h1 a, h1 a:hover { color:darkred; text-decoration:none;}
+			#logo h1 span { color:#f8dbdb;}
+
+			/* Header */
+			#header { background:#fff; }
+			#header-inner { margin:0 auto; padding:0; width:970px;}
+			
+			/* Feature */
+			.feature { background:red;padding:18px;}
+			.feature-inner { margin:auto;width:970px; }
+			.feature-inner h1 {color:#f8dbdb;font-size:32px;}
+			
+			/* Menu */
+			#top-nav { margin:0 auto; padding:0px 0 0; height:37px; float:right;}
+			#top-nav ul { list-style:none; padding:0; height:37px; float:left;}
+			#top-nav ul li { margin:0; padding:0 0 0 8px; float:left;}
+			#top-nav ul li a { display:block; margin:0; padding:8px 20px; color:red; text-decoration:none;}
+			#top-nav ul li.active a, #top-nav ul li a:hover { color:#f8dbdb;}
+			
+			/* Content */
+			#content-inner { margin:0 auto; padding:10px 0; width:970px;background:#fff;}
+			#content #contentbar { margin:0; padding:0; float:right; width:760px;}
+			#content #contentbar .article { margin:0 0 24px; padding:0 20px 0 15px; }
+			#content #sidebar { padding:0; float:left; width:200px;}
+			#content #sidebar .widget { margin:0 0 12px; padding:8px 8px 8px 13px;line-height:1.4em;}
+			#content #sidebar .widget h3 a { text-decoration:none;}
+			#content #sidebar .widget ul { margin:0; padding:0; list-style:none; color:#959595;}
+			#content #sidebar .widget ul li { margin:0;}
+			#content #sidebar .widget ul li { padding:4px 0; width:185px;}
+			#content #sidebar .widget ul li a { color:red; text-decoration:none; margin-left:-16px; padding:4px 8px 4px 16px;}
+			#content #sidebar .widget ul li a:hover { color:#f8dbdb; font-weight:bold; text-decoration:none;}
+			
+			/* Footerblurb */
+			#footerblurb { background:#f8dbdb;color:red;}
+			#footerblurb-inner { margin:0 auto; width:922px; padding:24px;}
+			#footerblurb .column { margin:0; text-align:justify; float:left;width:250px;padding:0 24px;}
+			
+			/* Footer */
+			#footer { background:#fff;}
+			#footer-inner { margin:auto; text-align:center; padding:12px; width:922px;}
+			#footer a {color:red;text-decoration:none;}
+			
+			/* Clear both sides to assist with div alignment  */
+			.clr { clear:both; padding:0; margin:0; width:100%; font-size:0px; line-height:0px;}
+		</style><script type="text/javascript">
+		
+			}
+		</script><style type="text/css"></style></head>
+	<body>
+	<div class="stdcssdemobox">	
+		<style type="text/css">
+	div.stdcssdemobox {
+		border: 2px solid #00f ;
+		border-radius: 20px ;
+		padding: 20px ;
+		background-color: #c4e8f3 ;
+		color: #000 ;
+		width: 80% ;
+		margin-left: auto ;
+		margin-right: auto ;
+	}
+</style>
+		
+		
+		
+	<div id="page">
+			<header id="header">
+				<div id="header-inner">	
+					<div id="logo">
+						<h1><a href="#"><span><img data-original-width="599" data-original-height="222" data-padding-top="114" data-id="5j1QipQGJPDc4" data-image_url="http://media.giphy.com/media/5j1QipQGJPDc4/giphy.gif" data-bitly_gif_url="http://gph.is/1o1NpaX" data-mp4_url="http://media.giphy.com/media/5j1QipQGJPDc4/giphy.mp4" data-still="http://media.giphy.com/media/5j1QipQGJPDc4/giphy_s.gif" data-preview-image-url="http://media.giphy.com/media/5j1QipQGJPDc4/100.gif" data-tumblr_share_url="http://media.giphy.com/media/5j1QipQGJPDc4/giphy-tumblr.gif" data-gif_id="5j1QipQGJPDc4" data-absolute-url="/gifs/rap-genius-bviley-5j1QipQGJPDc4" data-edit-url="/home/gifs/rap-genius-bviley-5j1QipQGJPDc4/edit/" item_prop="content_url" id="gif" class="a-gif" src="http://media.giphy.com/media/5j1QipQGJPDc4/giphy.gif" alt="street fighter animated GIF " style="width: 805px; height: 298px" height="298" width="805"></span></a></h1>
+					</div>
+					<div id="top-nav">
+						<ul>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Contact</a></li>
+						<li><a href="#">FAQ</a></li>
+						<li><a href="#">Help</a></li>
+						</ul>
+					</div>
+					<div class="clr"></div>
+				</div>
+			</header>
+			<div class="feature">
+				<div class="feature-inner">
+				<h1>JohnstonExecutiveSolutions</h1>
+
+
+<h2 style="color: rgb(24, 2, 2);">After JES is done with your IT needs you will not say yes, you will say JES!</h2>
+				</div>
+			</div>
+<title>About</title><meta http-equiv="content-type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Fredericka+the+Great|Allura|Amatic+SC|Arizonia|Averia+Sans+Libre|Cabin+Sketch|Francois+One|Jacques+Francois+Shadow|Josefin+Slab|Kaushan+Script|Love+Ya+Like+A+Sister|Merriweather|Offside|Open+Sans|Open+Sans+Condensed|Oswald|Over+the+Rainbow|Pacifico|Romanesco|Sacramento|Seaweed+Script|Special+Elite"><link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans"><link rel="stylesheet" type="text/css" href="site.css?v="><script> if (typeof ($sf) === "undefined") { $sf = { baseUrl: "https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2", skin: "app", preload: 0, require: { jquery: "https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/libs/jquery/jq.js", paths: { "wsbcore": "common/wsb/core", "knockout": "libs/knockout/knockout" } } }; } </script><script id="duel" src="//img4.wsimg.com/starfield/duel/v2.5.7/duel.js?appid=O3BkA5J1#TzNCa0E1SjF2Mi41Ljdwcm9k"></script><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/libs/jquery/jq.js"></script><script> define('jquery', ['jq!starfield/jquery.mod'], function(m) { return m; }); define('appconfig', [], { documentDownloadBaseUrl: 'http://nebula.wsimg.com' }); </script><link href="C:\Users\anubis111000111\Desktop\TEST.css" rel="stylesheet" type="text/css"><meta http-equiv="Content-Location" content="about.html"><meta name="generator" content="Starfield Technologies; Go Daddy Website Builder 7.0.5350"><meta property="og:type" content="website"><meta property="og:title" content="About"><meta property="og:site_name" content="JohnstonExsol"><meta property="og:url" content="http://johnstonexsol.com/about.html"><meta property="og:image" content="//nebula.wsimg.com/31e87ce3497c235067e24dbdf9189a9c?AccessKeyId=1FED1B5AB3E77847E6F9&amp;disposition=0&amp;alloworigin=1"><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/common/cookiemanager/cookiemanager.js"></script><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/designer/iebackground/iebackground.js"></script><script charset="utf-8" async="" src="https://img4.wsimg.com/wst/v7/WSB7_J_20150806_1152_email-pri_7553/v2/common/util/util.window.js"></script><style type="text/css"> #wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930{top:69px;left:449px;position:absolute;z-index:11}#wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930 .wsb-image-inner{}#wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930 .wsb-image-inner div{width:98px;height:35px;position:relative;overflow:hidden}#wsb-element-5a919c7e-416d-41af-a215-0f4b604a7930 img{position:absolute}#wsb-element-5cdf6706-5da5-4414-988c-d49c252c821e{top:653px;left:420px;position:absolute;z-index:54}#wsb-element-5cdf6706-5da5-4414-988c-d49c252c821e .wsb-htmlsnippet-element{width:218px;height:214px;overflow:hidden;margin:auto}#wsb-element-75d1fdaf-f902-4b25-975f-f01e3723a45f{top:399px;left:868px;position:absolute;z-index:53}#wsb-element-75d1fdaf-f902-4b25-975f-f01e3723a45f .wsb-htmlsnippet-element{width:284px;height:427px;overflow:hidden;margin:auto}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07{top:397px;left:192px;position:absolute;z-index:43}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07 .wsb-image-inner{}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07 .wsb-image-inner div{width:668px;height:445px;position:relative;overflow:hidden}#wsb-element-0af37adf-2521-48c3-9a3b-353790ee0d07 img{position:absolute}#wsb-element-43dbab8d-39d2-4d40-a90f-ab5e058bda9f{top:911px;left:272px;position:absolute;z-index:49}#wsb-element-43dbab8d-39d2-4d40-a90f-ab5e058bda9f{width:600px;height:40px}#wsb-element-ead2120b-2903-48e8-b510-0da9598c48ec{top:14px;left:515px;position:absolute;z-index:48}#wsb-element-ead2120b-2903-48e8-b510-0da9598c48ec{width:600px;height:40px}#wsb-element-6617f312-4259-4143-a95a-9e19c3653200{top:30px;left:8px;position:absolute;z-index:41}#wsb-element-6617f312-4259-4143-a95a-9e19c3653200 .wsb-htmlsnippet-element{width:1006px;height:595px;overflow:hidden;margin:auto} </style><div class="wsb-canvas body"></div><script type="text/javascript"> require(['jquery', 'common/cookiemanager/cookiemanager', 'designer/iebackground/iebackground'], function ($, cookieManager, bg) { if (cookieManager.getCookie("WSB.ForceDesktop")) { $('.view-as-mobile', '.wsb-canvas-page-container').show().find('a').bind('click', function () { cookieManager.eraseCookie("WSB.ForceDesktop"); window.location.reload(true); }); } bg.fixBackground(); }); </script>
+
+
+		
+			<div id="footerblurb">
+				<div id="footerblurb-inner">
+				
+					<div class="After">
+						<h2><span><meta name="viewport" content="width=device-width, minimum-scale=0.1"><style type="text/css"></style><title>49f8e694a95dd7ba6ea608839689207f (1440×1080)</title><img src="http://33.media.tumblr.com/8dec29537e4f9c9c271226da5b93361d/tumblr_mqh37a9XaQ1r5hwpmo1_500.gif" alt="" width="576"></span></h2>
+						<p><script>generateText(2)</script></p>
+					</div>	
+					<div class="column">
+						<h2><span><div data-bind="overlay: { template: 'htmlsnippet-loading', isVisible: showLoadingOverlay }">
+            <iframe data-bind="
+                    attr: {
+                        id: 'htmlsnippetiframe-' + ID(),
+                        src: '/designer/htmlsnippetiframe/' + ID()
+                    },
+                    style: { width: Width, height: Height },
+                    event: { load: handleIframeLoad }" data-widget-content="true" scrolling="no" allowtransparency="true" style="border: medium none; margin: 0px; padding: 0px; overflow: hidden; width: 287px; height: 7px;" id="htmlsnippetiframe-5cdf6706-5da5-4414-988c-d49c252c821e" src="/designer/htmlsnippetiframe/5cdf6706-5da5-4414-988c-d49c252c821e" frameborder="0"></iframe>
+        </div></span></h2>
+						<p><script>generateText(2)</script></p>
+					</div>
+					<div class="column">
+						<h2><span></span>
+<p style="font-family:gabriola"></p>
+
+<h1>About the owner</h1>
+<p style="color: rgb(230, 19, 19);">The owner and operator of JES is Gemar Johnston. Gemar is currently a student at
+ We were founded in 2014 and provide education, computer setup, and custom request. Located in Waco TX, we service San Antonio, Austin, Waco, and Dallas. We come to you! Why communicate just over the phone? You can contact JES via Skype, Google Hangouts, FaceTime and Phone! Communication is the key to us so if you need help from home we can log on and walk you through. We would like to help you usher your business into the new age of Information Technology. JES is also able to be your translator when it comes to communicating with your ISP(internet service provider), contacting manufacturers regarding products that you may need help with, and we even offer on-call times when you need us the most for your business needs. With the advent of VOIP (Voice over IP) and the work at home crazy sweeping the world, you need someone who is up to date with the latest internet protocols and networking terminology. Hackers target networks that are at root in poor setup and viruses are written every day to attack you. Yes, you. At JES, we always have two computers set up and they have one job, get infected. How will you know how to combat your attacker when you don't know his/her moves? JES has you covered from all angles.
+</p></h2>
+						<p><script>generateText(2)</script></p>
+					</div>	
+					
+					<div class="clr"></div>
+				</div>
+			</div>
+			<footer id="footer">
+				<div id="footer-inner">
+					<p>© Copyright <a href="#">JohnstonExecutiveSolutions</a> | <a href="#">Terms of Use</a> | <a href="#">You may not use any digital media on this site. JES (JohnstonExecutiveSolutions) reserves the rights to Johnstonexsol.com</a></p>
+					<div class="clr"></div>
+				</div>
+			</footer>
+		</div><p></p></div></body><style type="text/css"></style></html>
+		
+<<<<Logic>>>>
+
+           Created by Gemar Johnston
+{ - - -  - - - - - - - - - - - -- - - - - - -- - -- - - -
+     {__-__JES__-__}
+
+
+<style>
+body {background-color:Black}
+h1   {color:Red}
+p    {color:Red}
+</style>
+
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    color:red;
+    font-family:Gabriola;
+    font-size:250%;
+
+}
+p  {
+    color:red;
+    font-family:Gabriola;
+    font-size:160%;
+}
+</style>
+</head>
+<body>
+
+
+
+
+ <h1> <h1 style="color:white">
+ 
+ 
+ Welcome to JohnstonExecutiveSolutions (JES)</h1> 
+ 
+ 
+  <h2> After JES is done with your IT needs you will not say yes you will say JES!</h2>
+
+
+<html>
+<body><p style="font-family:gabriola">We were founded in 2014 and provide education, computer setup, and custom request. Located in Waco TX, we service San Antonio, Austin, Waco, and Dallas. We come to you! Why communicate just over the phone? You can contact JES via Skype, Google Hangouts, FaceTime and Phone! Communication is the key to us so if you need help from home we can log on and walk you through. We would like to help you usher your business into the new age of Information Technology. JES is also able to be your translator when it comes to communicating with your ISP(internet service provider), contacting manufacturers regarding products that you may need help with, and we even offer on-call times when you need us the most for your business needs. With the advent of VOIP (Voice over IP) and the work at home crazy sweeping the world, you need someone who is up to date with the latest internet protocols and networking terminology. Hackers target networks that are at root in poor setup and viruses are written every day to attack you. Yes, you. At JES, we always have two computers set up and they have one job, get infected. How will you know how to combat your attacker when you don't know his/her moves? JES has you covered from all angles.</body></html></h1></body></html></body>
+
+<img src="http://33.media.tumblr.com/8dec29537e4f9c9c271226da5b93361d/tumblr_mqh37a9XaQ1r5hwpmo1_500.gif" alt="" width="400">
+<img style="-webkit-user-select: none" src="http://vignette3.wikia.nocookie.net/streetfighter/images/8/87/Streetfighter-blanka.gif/revision/latest?cb=20150409145048">
+
+<style>
+body {background-color:Black}
+h1   {color:Red}
+p    {color:Red}
+</style>
+
+<body>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    color:red;
+    font-family:Gabriola;
+    font-size:250%;
+
+}
+p  {
+    color:red;
+    font-family:Gabriola;
+    font-size:160%;
+}
+</style>
+</head>
+<body>
+
+<h1>About the owner</h1>
+<p>
+
+The founder of JES is Gemar Johnston. Gemar is currently a student at
+Texas Tech University located in Lubbock, TX.  May 2016
+He served four years in the United States Army and was also an SROTC Cadet at Vanderbilt University.
+Lastly, he is dedicated to a mission of educating children from his hometown of Dallas, TX so the torch is passed to the next generation and opportunity reaches to everyone regardless of the area of the city they reside.
+ </p>
+
+</body>
+</html>
+</body>
+
