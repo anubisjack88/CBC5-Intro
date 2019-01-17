@@ -1,0 +1,78 @@
+
+body {
+    border-style: solid;
+    border-width: 1px;
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-color: black;
+}
+
+.imgbox {
+    display: grid;
+    height: 100%;
+}
+.center-fit {
+    max-width: 100%;
+    max-height: 100vh;
+    margin: auto;
+}
+
+    
+element {
+
+    width: 77%;
+    margin-top: 146px;
+    padding-left: 0px;
+    border-left-width: 6px;
+    margin-left: 69px;
+    border-right-width: 0px;
+}
+
+
+table, th, td {
+  border: 7px solid green;
+  border-collapse: collapse;
+}
+
+p {
+  border: px solid Black;
+  padding: 30px;
+
+
+
+ border:20px solid black;
+  
+ background: rgb(218, 18, 18);
+
+ 
+  border: 20px solid Black;
+  margin: 70px;
+} 
+
+
+body{
+    float: left;
+
+background-color: rgba(0, 0, 0, 0);
+background-position-x: 95%;
+background-position-y: 0%;
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-image: url(http://www.clanjohnstone.org/wp-content/uploads/2015/02/Merchandise-page.jpg);
+background-size: 281px 301px;
+background-origin: padding-box;
+background-clip: border-box;
+
+body {
+
+    background-color:green
+} 
+body
+{
+ range: url(img_flwr.gif) right bottom no-repeat, url(paper.gif) left top repeat;
+(https://db4sgowjqfwig.cloudfront.net/campaigns/69163/assets/499995/Marcian.jpg?1440785559);
+} </body> 
+
+
+
+
